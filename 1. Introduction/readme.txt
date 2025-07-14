@@ -1,1 +1,0 @@
-Java is a general puporse, high lebel, object oritented programming  language. It was developed by james gosling at sun microsystems in 1995
