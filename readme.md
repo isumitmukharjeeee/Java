@@ -26,4 +26,4 @@ This repository is designed to help beginners and intermediate learners build st
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/java-dsa-roadmap.git
+   git clone https://github.com/isumitmukharjeeee/Java.git
