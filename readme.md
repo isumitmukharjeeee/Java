@@ -10,7 +10,7 @@ This repository is designed to help beginners and intermediate learners build st
 | # | Section Title     | Description                                     | Link                                         |
 |---|--------------------|-------------------------------------------------|----------------------------------------------|
 | 1 | Introduction       | Basic overview of Java and DSA.                | [1. Introduction](./1.%20Introduction/)      |
-| 2 | Java Basics        | Syntax, variables, data types, operators, etc. | *(Coming Soon)*                              |
+| 2 | Java Basics        | Syntax, variables, data types, operators, etc. | [2. Java Basics](./2.%20Java%20Basics/)                              |
 | 3 | Object-Oriented Programming | Classes, objects, inheritance, polymorphism, etc. | *(Coming Soon)*                      |
 | 4 | DSA Basics         | Arrays, Strings, Linked Lists, etc.            | *(Coming Soon)*                              |
 | 5 | Sorting & Searching| Binary Search, Merge Sort, Quick Sort, etc.   | *(Coming Soon)*                              |
